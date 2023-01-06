@@ -80,7 +80,7 @@ body {
 }
 .container .introduce p {
   margin-top: 2rem;
-  font-size: 1.6rem;
+  font-size: 1.8rem;
   font-weight: 400;
   color: hsl(215deg, 51%, 70%);
 }
@@ -97,7 +97,7 @@ body {
 }
 .container .row .price .text {
   color: hsl(178deg, 100%, 50%);
-  font-size: 1.6rem;
+  font-size: 1.8rem;
 }
 .container .row .time {
   display: flex;
@@ -108,7 +108,7 @@ body {
 }
 .container .row .time .text {
   color: hsl(215deg, 51%, 70%);
-  font-size: 1.6rem;
+  font-size: 1.8rem;
 }
 .container .line {
   height: 1px;
@@ -127,7 +127,7 @@ body {
 }
 .container .creation .text {
   color: hsl(215deg, 51%, 70%);
-  font-size: 1.6rem;
+  font-size: 1.8rem;
 }
 .container .creation .text .link {
   text-decoration: none;
